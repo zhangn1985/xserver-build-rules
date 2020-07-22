@@ -1,0 +1,3 @@
+## Patches with a number < 100 are applied in debian.
+## Ubuntu patches start with 100.
+001_fedora_extramodes.patch
